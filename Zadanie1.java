@@ -3,7 +3,7 @@
  */
 public class Zadanie1 {
     public static void main(String [] args){
-        int q=13;
+        int q=14;
         int w=5;
         int s;
         int ost;
