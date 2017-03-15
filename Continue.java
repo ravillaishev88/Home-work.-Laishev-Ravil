@@ -7,7 +7,7 @@ public class Continue {
             if (i%2==0){   //Остаток от деления на 2 равен нулю
                 continue;
             }
-            System.out.println("Четное число - "+i);
+            System.out.println("Четное число- "+i);
         }
     }
 }
