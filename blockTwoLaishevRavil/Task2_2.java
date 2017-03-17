@@ -3,7 +3,7 @@ package blockTwoLaishevRavil;
 /**
  * Created by User on 17.03.2017.
  */
-public class Task5 {
+public class Task2_2 {
     public static void main(String[] args) {
         int[] massiv = new int[55];
         for(int i = 0; i<massiv.length;i++){
