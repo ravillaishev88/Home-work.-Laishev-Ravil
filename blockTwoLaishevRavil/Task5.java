@@ -10,7 +10,7 @@ public class Task5 {
             massiv[i] = i*2+1;
         }
         for(int i = 0; i<massiv.length;i++){
-            System.out.println(massiv[i]);
+            System.out.print(massiv[i]+" ");
         }
     }
 }
