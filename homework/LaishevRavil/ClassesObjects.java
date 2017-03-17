@@ -15,7 +15,4 @@ public class ClassesObjects {
         System.out.println("Меня зовут "+person2.name+", и мне "+person2.age+" лет");
     }
 }
-class Person{                       // У класса могут быть:
-    String name;                    // 1. Данные
-    int age;                        // 2. Действия, которые он может совершать(МЕТОДЫ)
-}
+

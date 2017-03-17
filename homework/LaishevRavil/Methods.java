@@ -3,7 +3,7 @@ package homework.LaishevRavil;
 /**
  * Created by User on 17.03.2017.
  */
-public class ClassesObjects {
+public class Methods {
     public static void main(String[] args) {
         Person person1 = new Person();          // Создание объекта класса
         person1.name = "Иван";
