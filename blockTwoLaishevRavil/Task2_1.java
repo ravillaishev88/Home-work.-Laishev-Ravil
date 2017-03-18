@@ -5,8 +5,8 @@ package blockTwoLaishevRavil;
  */
 public class Task2_1 {
     public static void main(String[] args) {
-        int [] massiv = new int[5];
-
-
+        for (int i = 1000; i < 10000; i= i+3){
+            System.out.print(i+" ");
+        }
     }
 }
